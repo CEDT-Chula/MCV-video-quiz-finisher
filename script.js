@@ -1,11 +1,5 @@
 javascript: !async function(){
-    let id;
-    if(window.location.href.includes("onlinecourse")){
-       id=cvdlit_getVideoID();
-    }
-    else{
-         id=document.getElementById('player').getAttribute('data-kaltura-entryid');
-    }
+    let id=typeof cvdlit_getVideoID !== "undefined" && cvdlit_getVideoID() || document.getElementById('player').getAttribute('data-kaltura-entryid');
     let data=new URLSearchParams({
         v:id,
         type:"kaltura",
@@ -26,4 +20,4 @@ javascript: !async function(){
             alert("failed, try again");
         }
     }
-    }()
+}()
