@@ -1,7 +1,7 @@
 # MCV-video-finisher & Quiz Finisher
 Ever being tired of watching all the video in mycourseville just to finish the course in time? even if you could rewatch the video to study later?
 finish [mycoursevile](https://www.mycourseville.com) video in a click
-using MCV-video-finisher developed by [NewBieCoderXD](https://github.com/NewBieCoderXD) & Quiz Finisher by [ggFROOK]()
+using MCV-video-finisher developed by [NewBieCoderXD](https://github.com/NewBieCoderXD) & Quiz Finisher by [ggFROOK](https://github.com/NewBieCoderXD)
 to buzzing all the quiz up in a click and look like a genius who can answer all the quiz in a second
 
 
