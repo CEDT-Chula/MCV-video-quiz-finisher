@@ -1,0 +1,1 @@
+uglifyjs script.js > minifiedScript.js
