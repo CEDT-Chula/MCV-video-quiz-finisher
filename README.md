@@ -28,7 +28,7 @@ then you can just click the bookmarklet
 enjoy!
 
 ## My Coursevile Alpha Playlist Analhilator
-![showcase](imgs/showcase_quiz.png?raw=true)
+![showcase](imgs/showcase_alpha_playlist_anahilator.png?raw=true)
 
 This special script is made to finish all the video and quiz in My Courseville Alpha Playlist in a paste
 
