@@ -27,8 +27,18 @@ then you can just click the bookmarklet
 
 enjoy!
 
-(damn this is too late)
+## My Coursevile Alpha Playlist Analhilator
+![showcase](imgs/showcase_quiz.png?raw=true)
 
+This special script is made to finish all the video and quiz in My Courseville Alpha Playlist in a paste
+
+how to use?
+
+1. copy script.js into inspecting element tool of browser(you may want to remove "javascript: " from the script) and paste it in the console
+
+you must paste it in the 'playlist page' of My Courseville Alpha, Or it will just not work
+The progress update may take some time, so be patient and wait for it to finish.
+Then wait for like 5 min, logout and login again to see the updated progress.
 
 ### Disclaimer
 ```bash
