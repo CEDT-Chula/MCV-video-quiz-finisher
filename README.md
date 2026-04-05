@@ -30,6 +30,8 @@ enjoy!
 ## My Coursevile Alpha Playlist Analhilator
 ![showcase](imgs/showcase_alpha_playlist_anahilator.png?raw=true)
 
+I (@HRNPH) Built This to แปรงฟัน As Efficient As Possible
+
 This special script is made to finish all the video and quiz in My Courseville Alpha Playlist in a paste
 
 how to use?
